@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  OzinsheDemo
+
+  Created by Alikhan Kopzhanov on 07.08.2023.
+  
+*/
+"MY_PROFILE" = "Мой Профиль";
+"LANGUAGE" = "Язык";
+"PROFILE" = "Профиль";
+"PERSONAL_DATA" = "Личные данные";
+"CHANGE_PASSWORD" = "Изменить пароль";
+"TERMS_AND_CONDITIONS" = "Правила и условия";
+"NOTIFICATIONS" = "Уведомления";
+"DARK_MODE" = "Тёмный режим";
